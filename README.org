@@ -7,4 +7,4 @@
 1. Abrir terminal en el directorio.
 2. Usar el comando =mvn clean install= para compilar.
 3. Usar el comando =mvn tomcat7:run= para ejecutar.
-4. Abrir un navegador y acceder a =http://localhost:8080/mi-primer-aplicacion-web/
+4. Abrir un navegador y acceder a =http://localhost:8080/mi-primer-aplicacion-web/=

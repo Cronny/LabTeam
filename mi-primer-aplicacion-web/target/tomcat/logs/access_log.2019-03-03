@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [03/Mar/2019:23:44:12 -0600] "GET /mi-primer-aplicacion-web/ HTTP/1.1" 200 698 http-bio-8080-exec-2 232
+0:0:0:0:0:0:0:1 - - [03/Mar/2019:23:44:12 -0600] "GET /mi-primer-aplicacion-web/ HTTP/1.1" 200 699 http-bio-8080-exec-1 317
+0:0:0:0:0:0:0:1 - - [03/Mar/2019:23:44:15 -0600] "POST /mi-primer-aplicacion-web/faces/hello.xhtml HTTP/1.1" 200 260 http-bio-8080-exec-4 20

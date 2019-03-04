@@ -2,4 +2,9 @@
 - Estrada Mejia Diego
 - González Durán Erick
 - Licón Colón Francisco Arturo
-- Rivas León Alexis
+- Rivas León Alexis 
+* ¿Como compilar?
+1. Abrir terminal en el directorio.
+2. Usar el comando =mvn clean install= para compilar.
+3. Usar el comando =mvn tomcat7:run= para ejecutar.
+4. Abrir un navegador y acceder a =http://localhost:8080/mi-primer-aplicacion-web/

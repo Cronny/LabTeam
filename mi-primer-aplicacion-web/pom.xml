@@ -9,6 +9,18 @@
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
+	<groupId>net.bootsfaces</groupId>
+	<artifactId>bootsfaces</artifactId>
+	<version>1.4.0</version>
+	<scope>compile</scope>
+      </dependency>
+      <dependency>
+	<groupId>org.primefaces</groupId>
+	<artifactId>primefaces</artifactId>
+	<version>6.2</version>
+	<scope>compile</scope>
+      </dependency>
+    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
@@ -54,7 +66,7 @@
         <configuration>
           <path>/mi-primer-aplicacion-web</path>
         </configuration>
-      </plugin>
+      </plugin>      
     </plugins>
   </build>
 </project>
